@@ -1,0 +1,375 @@
+﻿Make_Id,Make_Name,Model_Id,Model_Name,Engine_Type,Engine_Fuel_Type,Engine_Cylinders,Engine_Horsepower_Hp,Engine_Drive_Type,Engine_Transmission,Body_Type
+1,Acura,97,ILX,gas,premium unleaded (recommended),I4,201,front wheel drive,8-speed automated manual,Sedan
+1,Acura,2,MDX,gas,premium unleaded (recommended),V6,290,front wheel drive,9-speed shiftable automatic,SUV
+1,Acura,98,NSX,hybrid,premium unleaded (required),V6,573,all wheel drive,9-speed automated manual,Coupe
+1,Acura,99,RDX,gas,premium unleaded (recommended),I4,272,front wheel drive,10-speed shiftable automatic,SUV
+1,Acura,421,RLX,gas,premium unleaded (recommended),V6,310,front wheel drive,10-speed shiftable automatic,Sedan
+1,Acura,100,TLX,gas,premium unleaded (recommended),I4,206,front wheel drive,8-speed automated manual,Sedan
+24,Alfa Romeo,422,4C,gas,premium unleaded (required),I4,237,rear wheel drive,6-speed automated manual,Coupe
+24,Alfa Romeo,101,Giulia,gas,premium unleaded (required),I4,280,all wheel drive,8-speed shiftable automatic,Sedan
+24,Alfa Romeo,102,Stelvio,gas,premium unleaded (required),I4,280,rear wheel drive,8-speed shiftable automatic,SUV
+44,Aston Martin,395,DB11,gas,premium unleaded (required),V12,630,rear wheel drive,8-speed shiftable automatic,Coupe
+44,Aston Martin,396,DBS Superleggera,gas,premium unleaded (required),V12,715,rear wheel drive,8-speed shiftable automatic,Coupe
+44,Aston Martin,398,Vantage,gas,premium unleaded (recommended),V8,510,rear wheel drive,7-speed manual,Coupe
+2,Audi,103,A3,gas,regular unleaded,I4,228,all wheel drive,7-speed automated manual,Sedan
+2,Audi,104,A4,gas,premium unleaded (required),I4,188,front wheel drive,7-speed automated manual,Sedan
+2,Audi,105,A4 allroad,gas,premium unleaded (recommended),I4,248,all wheel drive,7-speed automated manual,Wagon
+2,Audi,3,A5,gas,premium unleaded (recommended),I4,248,all wheel drive,7-speed automated manual,Convertible
+2,Audi,106,A6,mild hybrid,premium unleaded (required),I4,248,all wheel drive,7-speed automated manual,Sedan
+2,Audi,107,A6 allroad,mild hybrid,premium unleaded (required),V6,335,all wheel drive,7-speed automated manual,Wagon
+2,Audi,108,A7,mild hybrid,premium unleaded (required),V6,335,all wheel drive,7-speed automated manual,Sedan
+2,Audi,109,A8,mild hybrid,premium unleaded (required),V8,453,all wheel drive,8-speed shiftable automatic,Sedan
+2,Audi,111,e-tron Sportback,electric,electric,none,402,all wheel drive,1-speed direct drive,SUV
+2,Audi,6,Q3,gas,premium unleaded (recommended),I4,228,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,7,Q5,gas,premium unleaded (recommended),I4,248,all wheel drive,7-speed automated manual,SUV
+2,Audi,116,Q7,gas,premium unleaded (recommended),I4,248,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,8,Q8,mild hybrid,premium unleaded (required),V6,335,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,117,R8,gas,premium unleaded (required),V10,562,all wheel drive,7-speed automated manual,Coupe
+2,Audi,118,RS 3,gas,premium unleaded (required),I5,394,all wheel drive,7-speed automated manual,Sedan
+2,Audi,123,RS Q8,mild hybrid,premium unleaded (required),V8,591,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,124,S3,gas,premium unleaded (required),I4,288,all wheel drive,7-speed automated manual,Sedan
+2,Audi,125,S4,gas,premium unleaded (recommended),V6,349,all wheel drive,8-speed shiftable automatic,Sedan
+2,Audi,126,S5,gas,premium unleaded (recommended),V6,349,all wheel drive,8-speed shiftable automatic,Coupe
+2,Audi,127,S6,mild hybrid,premium unleaded (required),V6,444,all wheel drive,8-speed shiftable automatic,Sedan
+2,Audi,128,S7,mild hybrid,premium unleaded (required),V6,444,all wheel drive,8-speed shiftable automatic,Sedan
+2,Audi,129,S8,mild hybrid,premium unleaded (required),V8,563,all wheel drive,8-speed shiftable automatic,Sedan
+2,Audi,130,SQ5,gas,premium unleaded (required),V6,349,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,132,SQ7,hybrid,premium unleaded (required),V8,500,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,133,SQ8,hybrid,premium unleaded (required),V8,500,all wheel drive,8-speed shiftable automatic,SUV
+2,Audi,134,TT,gas,premium unleaded (required),I4,228,all wheel drive,7-speed automated manual,Coupe
+2,Audi,135,TT RS,gas,premium unleaded (required),I5,394,all wheel drive,7-speed automated manual,Coupe
+2,Audi,136,TTS,gas,premium unleaded (required),I4,288,all wheel drive,7-speed automated manual,Coupe
+25,Bentley,137,Bentayga,plug-in hybrid,premium unleaded (required),V6,443,all wheel drive,8-speed shiftable automatic,SUV
+25,Bentley,138,Continental,gas,premium unleaded (required),W12,626,all wheel drive,8-speed automated manual,Convertible
+25,Bentley,139,Flying Spur,gas,premium unleaded (required),W12,626,all wheel drive,8-speed automated manual,Sedan
+25,Bentley,423,Mulsanne,gas,premium unleaded (required),V8,505,rear wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,140,2 Series,gas,premium unleaded (recommended),I4,248,rear wheel drive,8-speed shiftable automatic,Convertible
+3,BMW,141,2 Series Gran Coupe,gas,premium unleaded (required),I4,228,all wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,9,3 Series,gas,premium unleaded (recommended),I4,255,rear wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,10,4 Series,gas,premium unleaded (recommended),I4,248,rear wheel drive,8-speed shiftable automatic,Convertible
+3,BMW,11,4 Series Gran Coupe,gas,premium unleaded (recommended),I4,248,rear wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,142,5 Series,plug-in hybrid,premium unleaded (recommended),I4,248,rear wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,143,7 Series,gas,premium unleaded (required),I6,335,rear wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,12,8 Series,gas,premium unleaded (recommended),I6,335,rear wheel drive,8-speed shiftable automatic,Coupe
+3,BMW,13,8 Series Gran Coupe,gas,premium unleaded (recommended),I6,335,rear wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,144,ALPINA B7,gas,premium unleaded (required),V8,600,all wheel drive,8-speed shiftable automatic,Sedan
+3,BMW,399,i3,plug-in hybrid,electric,I2,168,rear wheel drive,1-speed direct drive,Hatchback
+3,BMW,424,i8,plug-in hybrid,premium unleaded (required),I3,369,all wheel drive,6-speed shiftable automatic,Coupe
+3,BMW,147,X1,gas,premium unleaded (recommended),I4,228,front wheel drive,8-speed shiftable automatic,SUV
+3,BMW,16,X2,gas,premium unleaded (recommended),I4,301,all wheel drive,8-speed shiftable automatic,SUV
+3,BMW,148,X3,gas,premium unleaded (required),I6,473,all wheel drive,8-speed shiftable automatic,SUV
+3,BMW,149,X4,gas,premium unleaded (required),I6,473,all wheel drive,8-speed shiftable automatic,SUV
+3,BMW,150,X5,gas,premium unleaded (required),V8,600,all wheel drive,8-speed shiftable automatic,SUV
+3,BMW,151,X6,gas,premium unleaded (required),V8,600,all wheel drive,8-speed shiftable automatic,SUV
+3,BMW,152,X7,gas,premium unleaded (recommended),V8,523,all wheel drive,8-speed shiftable automatic,SUV
+3,BMW,153,Z4,gas,premium unleaded (recommended),I6,382,rear wheel drive,8-speed shiftable automatic,Convertible
+4,Buick,17,Enclave,gas,regular unleaded,V6,310,all wheel drive,9-speed shiftable automatic,SUV
+4,Buick,154,Encore,gas,regular unleaded,I4,138,front wheel drive,6-speed shiftable automatic,SUV
+4,Buick,18,Encore GX,gas,regular unleaded,I3,155,all wheel drive,9-speed shiftable automatic,SUV
+4,Buick,19,Envision,gas,regular unleaded,I4,197,front wheel drive,6-speed shiftable automatic,SUV
+4,Buick,425,Regal Sportback,gas,premium unleaded (recommended),I4,250,front wheel drive,9-speed shiftable automatic,Hatchback
+4,Buick,426,Regal TourX,gas,premium unleaded (recommended),I4,250,all wheel drive,8-speed shiftable automatic,Wagon
+5,Cadillac,20,CT4,gas,premium unleaded (recommended),I4,237,rear wheel drive,8-speed shiftable automatic,Sedan
+5,Cadillac,21,CT5,gas,premium unleaded (recommended),I4,237,rear wheel drive,10-speed shiftable automatic,Sedan
+5,Cadillac,427,CT6,gas,regular unleaded,V6,335,all wheel drive,10-speed shiftable automatic,Sedan
+5,Cadillac,428,CT6-V,gas,premium unleaded (required),V8,550,all wheel drive,10-speed shiftable automatic,Sedan
+5,Cadillac,22,Escalade,gas,premium unleaded (recommended),V8,420,rear wheel drive,10-speed shiftable automatic,SUV
+5,Cadillac,23,Escalade ESV,gas,premium unleaded (recommended),V8,420,rear wheel drive,10-speed shiftable automatic,SUV
+5,Cadillac,25,XT4,gas,premium unleaded (recommended),I4,237,front wheel drive,9-speed shiftable automatic,SUV
+5,Cadillac,26,XT5,gas,premium unleaded (recommended),I4,237,front wheel drive,9-speed shiftable automatic,SUV
+5,Cadillac,27,XT6,gas,regular unleaded,V6,310,front wheel drive,9-speed shiftable automatic,SUV
+6,Chevrolet,157,Blazer,flex-fuel (FFV),flex-fuel (unleaded/E85),I4,193,front wheel drive,9-speed shiftable automatic,SUV
+6,Chevrolet,29,Bolt EV,electric,electric,none,200,front wheel drive,1-speed direct drive,Hatchback
+6,Chevrolet,158,Camaro,gas,premium unleaded (recommended),I4,275,rear wheel drive,6-speed manual,Coupe
+6,Chevrolet,159,Colorado,gas,regular unleaded,I4,200,rear wheel drive,6-speed shiftable automatic,Truck (Extended Cab)
+6,Chevrolet,30,Corvette,gas,premium unleaded (recommended),V8,490,rear wheel drive,8-speed automated manual,Convertible
+6,Chevrolet,160,Equinox,gas,regular unleaded,I4,170,front wheel drive,6-speed shiftable automatic,SUV
+6,Chevrolet,161,Express,gas,regular unleaded,V6,276,rear wheel drive,8-speed automatic,Van
+6,Chevrolet,162,Express Cargo,gas,regular unleaded,V6,276,rear wheel drive,8-speed automatic,Van
+6,Chevrolet,429,Impala,flex-fuel (FFV),flex-fuel (unleaded/E85),V6,305,front wheel drive,6-speed shiftable automatic,Sedan
+6,Chevrolet,163,Malibu,gas,regular unleaded,I4,160,front wheel drive,continuously variable-speed automatic,Sedan
+6,Chevrolet,165,Silverado 1500,flex-fuel (FFV),flex-fuel (unleaded/E85),V6,285,four wheel drive,6-speed shiftable automatic,Truck (Double Cab)
+6,Chevrolet,166,Silverado 2500HD,gas,regular unleaded,V8,401,rear wheel drive,6-speed shiftable automatic,Truck (Double Cab)
+6,Chevrolet,167,Silverado 3500HD,gas,regular unleaded,V8,401,four wheel drive,6-speed shiftable automatic,Truck (Crew Cab)
+6,Chevrolet,430,Sonic,gas,regular unleaded,I4,138,front wheel drive,6-speed shiftable automatic,Sedan
+6,Chevrolet,168,Spark,gas,regular unleaded,I4,98,front wheel drive,continuously variable-speed automatic,Hatchback
+6,Chevrolet,31,Suburban,flex-fuel (FFV),flex-fuel (unleaded/E85),V8,355,four wheel drive,6-speed shiftable automatic,SUV
+6,Chevrolet,32,Tahoe,flex-fuel (FFV),flex-fuel (unleaded/E85),V8,355,rear wheel drive,6-speed shiftable automatic,SUV
+6,Chevrolet,34,Traverse,gas,regular unleaded,V6,305,front wheel drive,9-speed shiftable automatic,SUV
+6,Chevrolet,169,Trax,gas,regular unleaded,I4,138,front wheel drive,6-speed shiftable automatic,SUV
+26,Chrysler,170,300,gas,regular unleaded,V8,363,rear wheel drive,8-speed shiftable automatic,Sedan
+26,Chrysler,171,Pacifica,gas,regular unleaded,V6,287,all wheel drive,9-speed shiftable automatic,Minivan
+26,Chrysler,172,Voyager,gas,regular unleaded,V6,287,front wheel drive,9-speed automatic,Minivan
+27,Dodge,173,Challenger,gas,regular unleaded,V6,305,all wheel drive,8-speed shiftable automatic,Coupe
+27,Dodge,174,Charger,gas,regular unleaded,V6,300,rear wheel drive,8-speed shiftable automatic,Sedan
+27,Dodge,175,Durango,gas,regular unleaded,V6,295,all wheel drive,8-speed shiftable automatic,SUV
+27,Dodge,431,Grand Caravan,gas,regular unleaded,V6,283,front wheel drive,6-speed shiftable automatic,Minivan
+27,Dodge,432,Journey,gas,regular unleaded,I4,172,front wheel drive,4-speed shiftable automatic,SUV
+28,FIAT,433,124 Spider,gas,premium unleaded (recommended),I4,164,rear wheel drive,6-speed manual,Convertible
+28,FIAT,434,500L,gas,premium unleaded (recommended),I4,160,front wheel drive,6-speed shiftable automatic,Wagon
+28,FIAT,176,500X,gas,premium unleaded (recommended),I4,177,all wheel drive,9-speed shiftable automatic,SUV
+29,Ford,179,EcoSport,gas,regular unleaded,I3,123,front wheel drive,6-speed shiftable automatic,SUV
+29,Ford,180,Edge,gas,premium unleaded (recommended),I4,250,front wheel drive,8-speed automatic,SUV
+29,Ford,181,Escape,gas,regular unleaded,I3,180,front wheel drive,8-speed automatic,SUV
+29,Ford,184,Expedition,gas,regular unleaded,V6,375,rear wheel drive,10-speed shiftable automatic,SUV
+29,Ford,185,Explorer,gas,regular unleaded,I4,300,all wheel drive,10-speed shiftable automatic,SUV
+29,Ford,186,F-150,flex-fuel (FFV),flex-fuel (unleaded/E85),V8,395,rear wheel drive,10-speed shiftable automatic,Truck (SuperCrew)
+29,Ford,188,F-250 Super Duty,flex-fuel (FFV),flex-fuel (unleaded/E85),V8,385,rear wheel drive,6-speed shiftable automatic,Truck (Crew Cab)
+29,Ford,189,F-350 Super Duty,flex-fuel (FFV),flex-fuel (unleaded/E85),V8,385,rear wheel drive,10-speed shiftable automatic,Truck (Crew Cab)
+29,Ford,190,F-450 Super Duty,diesel,diesel fuel,V8,475,four wheel drive,10-speed shiftable automatic,Truck (Crew Cab)
+29,Ford,435,Fusion,gas,regular unleaded,I4,173,front wheel drive,6-speed automatic,Sedan
+29,Ford,436,Fusion Energi,plug-in hybrid,regular unleaded,I4,188,front wheel drive,continuously variable-speed automatic,Sedan
+29,Ford,437,Fusion Hybrid,hybrid,regular unleaded,I4,188,front wheel drive,continuously variable-speed automatic,Sedan
+29,Ford,192,Mustang,gas,premium unleaded (recommended),V8,480,rear wheel drive,6-speed manual,Coupe
+29,Ford,194,Ranger,gas,regular unleaded,I4,270,rear wheel drive,10-speed shiftable automatic,Truck (SuperCab)
+29,Ford,438,Shelby GT350,gas,premium unleaded (recommended),V8,526,rear wheel drive,6-speed manual,Coupe
+29,Ford,195,Shelby GT500,gas,premium unleaded (recommended),V8,760,rear wheel drive,7-speed automated manual,Coupe
+29,Ford,196,Transit Cargo Van,flex-fuel (FFV),,V6,275,all wheel drive,10-speed shiftable automatic,Van
+29,Ford,400,Transit Connect,gas,regular unleaded,I4,162,front wheel drive,8-speed shiftable automatic,Minivan
+29,Ford,199,Transit Crew Van,flex-fuel (FFV),,V6,275,rear wheel drive,10-speed shiftable automatic,Van
+29,Ford,200,Transit Passenger Van,flex-fuel (FFV),,V6,275,rear wheel drive,10-speed shiftable automatic,Van
+7,Genesis,35,G70,gas,premium unleaded (required),I4,252,rear wheel drive,8-speed shiftable automatic,Sedan
+7,Genesis,201,G80,gas,premium unleaded (recommended),V6,365,rear wheel drive,8-speed shiftable automatic,Sedan
+7,Genesis,202,G90,gas,premium unleaded (recommended),V6,365,all wheel drive,8-speed shiftable automatic,Sedan
+8,GMC,39,Acadia,gas,regular unleaded,V6,310,all wheel drive,9-speed shiftable automatic,SUV
+8,GMC,203,Canyon,gas,regular unleaded,V6,308,four wheel drive,8-speed shiftable automatic,Truck (Crew Cab)
+8,GMC,205,Savana,gas,regular unleaded,V6,276,rear wheel drive,8-speed automatic,Van
+8,GMC,206,Savana Cargo,gas,regular unleaded,V6,276,rear wheel drive,8-speed automatic,Ext Van
+8,GMC,207,Sierra 1500,gas,regular unleaded,V8,355,four wheel drive,10-speed shiftable automatic,Truck (Double Cab)
+8,GMC,209,Sierra 2500HD,gas,regular unleaded,V8,401,four wheel drive,6-speed shiftable automatic,Truck (Crew Cab)
+8,GMC,210,Sierra 3500HD,gas,regular unleaded,V8,401,four wheel drive,6-speed shiftable automatic,Truck (Crew Cab)
+8,GMC,211,Terrain,gas,premium unleaded (recommended),I4,252,all wheel drive,9-speed shiftable automatic,SUV
+8,GMC,212,Yukon,gas,premium unleaded (recommended),V8,420,rear wheel drive,10-speed shiftable automatic,SUV
+8,GMC,213,Yukon XL,gas,premium unleaded (recommended),V8,420,four wheel drive,10-speed shiftable automatic,SUV
+9,Honda,214,Accord,gas,regular unleaded,I4,192,front wheel drive,continuously variable-speed automatic,Sedan
+9,Honda,215,Accord Hybrid,hybrid,regular unleaded,I4,212,front wheel drive,continuously variable-speed automatic,Sedan
+9,Honda,216,Civic,gas,regular unleaded,I4,174,front wheel drive,continuously variable-speed automatic,Hatchback
+9,Honda,401,Clarity,electric (fuel cell),hydrogen,none,174,front wheel drive,1-speed direct drive,Sedan
+9,Honda,217,CR-V,gas,regular unleaded,I4,190,front wheel drive,continuously variable-speed automatic,SUV
+9,Honda,218,CR-V Hybrid,hybrid,regular unleaded,I4,212,all wheel drive,continuously variable-speed automatic,SUV
+9,Honda,439,Fit,gas,regular unleaded,I4,128,front wheel drive,continuously variable-speed automatic,Hatchback
+9,Honda,40,HR-V,gas,regular unleaded,I4,141,front wheel drive,continuously variable-speed automatic,SUV
+9,Honda,219,Insight,hybrid,regular unleaded,I4,151,front wheel drive,continuously variable-speed automatic,Sedan
+9,Honda,41,Odyssey,gas,regular unleaded,V6,280,front wheel drive,10-speed shiftable automatic,Minivan
+9,Honda,220,Passport,gas,regular unleaded,V6,280,all wheel drive,9-speed shiftable automatic,SUV
+9,Honda,221,Pilot,gas,regular unleaded,V6,280,all wheel drive,9-speed shiftable automatic,SUV
+9,Honda,222,Ridgeline,gas,regular unleaded,V6,280,all wheel drive,9-speed automatic,Truck (Crew Cab)
+10,Hyundai,223,Accent,gas,regular unleaded,I4,120,front wheel drive,continuously variable-speed automatic,Sedan
+10,Hyundai,42,Elantra,gas,regular unleaded,I4,128,front wheel drive,7-speed automated manual,Sedan
+10,Hyundai,440,Elantra GT,gas,regular unleaded,I4,161,front wheel drive,6-speed shiftable automatic,Hatchback
+10,Hyundai,402,Ioniq Electric,electric,electric,none,134,front wheel drive,1-speed direct drive,Hatchback
+10,Hyundai,225,Ioniq Hybrid,hybrid,regular unleaded,I4,139,front wheel drive,6-speed automated manual,Hatchback
+10,Hyundai,226,Ioniq Plug-In Hybrid,plug-in hybrid,regular unleaded,I4,139,front wheel drive,6-speed automated manual,Hatchback
+10,Hyundai,227,Kona,gas,regular unleaded,I4,175,all wheel drive,7-speed automated manual,SUV
+10,Hyundai,228,Kona Electric,electric,electric,none,201,front wheel drive,1-speed direct drive,SUV
+10,Hyundai,229,NEXO,electric (fuel cell),hydrogen,none,161,front wheel drive,1-speed direct drive,SUV
+10,Hyundai,43,Palisade,gas,regular unleaded,V6,291,all wheel drive,8-speed shiftable automatic,SUV
+10,Hyundai,44,Santa Fe,gas,regular unleaded,I4,185,all wheel drive,8-speed shiftable automatic,SUV
+10,Hyundai,233,Sonata,gas,regular unleaded,I4,180,front wheel drive,8-speed shiftable automatic,Sedan
+10,Hyundai,234,Sonata Hybrid,hybrid,regular unleaded,I4,192,front wheel drive,6-speed shiftable automatic,Sedan
+10,Hyundai,235,Tucson,gas,regular unleaded,I4,181,all wheel drive,6-speed shiftable automatic,SUV
+10,Hyundai,237,Veloster,gas,regular unleaded,I4,147,front wheel drive,6-speed manual,Hatchback
+10,Hyundai,238,Venue,gas,regular unleaded,I4,121,front wheel drive,continuously variable-speed automatic,Hatchback
+11,INFINITI,45,Q50,gas,premium unleaded (required),V6,300,rear wheel drive,7-speed shiftable automatic,Sedan
+11,INFINITI,239,Q60,gas,premium unleaded (required),V6,300,rear wheel drive,7-speed shiftable automatic,Coupe
+11,INFINITI,240,QX50,gas,premium unleaded (recommended),I4,268,all wheel drive,continuously variable-speed automatic,SUV
+11,INFINITI,241,QX60,gas,premium unleaded (recommended),V6,295,front wheel drive,continuously variable-speed automatic,SUV
+11,INFINITI,242,QX80,gas,premium unleaded (recommended),V8,400,four wheel drive,7-speed shiftable automatic,SUV
+12,Jaguar,47,E-PACE,gas,premium unleaded (required),I4,246,all wheel drive,9-speed shiftable automatic,SUV
+12,Jaguar,48,F-PACE,gas,premium unleaded (required),I4,247,all wheel drive,8-speed shiftable automatic,SUV
+12,Jaguar,49,F-TYPE,gas,premium unleaded (required),I4,296,rear wheel drive,8-speed shiftable automatic,Convertible
+12,Jaguar,50,I-PACE,electric,electric,none,394,all wheel drive,1-speed direct drive,Hatchback
+12,Jaguar,441,XE,gas,premium unleaded (required),I4,296,all wheel drive,8-speed automatic,Sedan
+12,Jaguar,51,XF,gas,premium unleaded (required),I4,247,rear wheel drive,8-speed shiftable automatic,Sedan
+30,Jeep,243,Cherokee,gas,regular unleaded,I4,180,front wheel drive,9-speed shiftable automatic,SUV
+30,Jeep,244,Compass,gas,regular unleaded,I4,180,four wheel drive,9-speed shiftable automatic,SUV
+30,Jeep,245,Gladiator,gas,regular unleaded,V6,285,four wheel drive,6-speed manual,Truck (Crew Cab)
+30,Jeep,246,Grand Cherokee,gas,regular unleaded,V6,293,four wheel drive,8-speed shiftable automatic,SUV
+30,Jeep,251,Renegade,gas,regular unleaded,I4,180,front wheel drive,9-speed automatic,SUV
+30,Jeep,253,Wrangler,gas,regular unleaded,V6,285,four wheel drive,6-speed manual,SUV
+13,Kia,442,Cadenza,gas,regular unleaded,V6,290,front wheel drive,8-speed shiftable automatic,Sedan
+13,Kia,53,Forte,gas,regular unleaded,I4,147,front wheel drive,continuously variable-speed automatic,Sedan
+13,Kia,443,K900,gas,premium unleaded (recommended),V6,365,all wheel drive,8-speed shiftable automatic,Sedan
+13,Kia,257,Niro,hybrid,regular unleaded,I4,139,front wheel drive,6-speed automated manual,SUV
+13,Kia,258,Niro EV,electric,electric,none,201,front wheel drive,1-speed direct drive,SUV
+13,Kia,259,Niro Plug-In Hybrid,plug-in hybrid,regular unleaded,I4,139,front wheel drive,6-speed automated manual,SUV
+13,Kia,444,Optima,gas,regular unleaded,I4,178,front wheel drive,7-speed automated manual,Sedan
+13,Kia,445,Optima Hybrid,hybrid,regular unleaded,I4,192,front wheel drive,6-speed shiftable automatic,Sedan
+13,Kia,446,Optima Plug-In Hybrid,plug-in hybrid,regular unleaded,I4,202,front wheel drive,6-speed shiftable automatic,Sedan
+13,Kia,260,Rio,gas,regular unleaded,I4,120,front wheel drive,continuously variable-speed automatic,Sedan
+13,Kia,404,Sedona,gas,regular unleaded,V6,276,front wheel drive,8-speed shiftable automatic,Minivan
+13,Kia,261,Sorento,gas,regular unleaded,V6,290,front wheel drive,8-speed shiftable automatic,SUV
+13,Kia,56,Soul,gas,regular unleaded,I4,147,front wheel drive,continuously variable-speed automatic,Wagon
+13,Kia,57,Sportage,gas,regular unleaded,I4,181,all wheel drive,6-speed shiftable automatic,SUV
+13,Kia,59,Stinger,gas,premium unleaded (recommended),V6,365,rear wheel drive,8-speed shiftable automatic,Sedan
+13,Kia,264,Telluride,gas,regular unleaded,V6,291,all wheel drive,8-speed automatic,SUV
+32,Lamborghini,405,Aventador,gas,premium unleaded (required),V12,730,all wheel drive,7-speed automated manual,Coupe
+32,Lamborghini,265,Huracan,gas,premium unleaded (required),V10,630,all wheel drive,7-speed automated manual,Coupe
+32,Lamborghini,266,Urus,gas,premium unleaded (required),V8,641,all wheel drive,8-speed shiftable automatic,SUV
+14,Land Rover,60,Defender,gas,premium unleaded (recommended),I4,296,all wheel drive,8-speed shiftable automatic,SUV
+14,Land Rover,61,Discovery,gas,premium unleaded (required),V6,340,four wheel drive,8-speed shiftable automatic,SUV
+14,Land Rover,62,Discovery Sport,gas,regular unleaded,I4,246,all wheel drive,9-speed automatic,SUV
+14,Land Rover,63,Range Rover,mild hybrid,premium unleaded (recommended),I6,355,four wheel drive,8-speed shiftable automatic,SUV
+14,Land Rover,64,Range Rover Evoque,gas,premium unleaded (recommended),I4,246,all wheel drive,9-speed shiftable automatic,SUV
+14,Land Rover,267,Range Rover Sport,mild hybrid,premium unleaded (recommended),I6,355,four wheel drive,8-speed shiftable automatic,SUV
+14,Land Rover,65,Range Rover Velar,gas,premium unleaded (recommended),I4,247,all wheel drive,8-speed shiftable automatic,SUV
+33,Lexus,268,ES,hybrid,regular unleaded,I4,215,front wheel drive,continuously variable-speed automatic,Sedan
+33,Lexus,447,GS,gas,premium unleaded (required),V6,311,all wheel drive,6-speed shiftable automatic,Sedan
+33,Lexus,269,GX,gas,premium unleaded (required),V8,301,four wheel drive,6-speed shiftable automatic,SUV
+33,Lexus,270,IS,gas,premium unleaded (required),I4,241,rear wheel drive,8-speed shiftable automatic,Sedan
+33,Lexus,271,LC,gas,premium unleaded (required),V8,471,rear wheel drive,10-speed shiftable automatic,Coupe
+33,Lexus,272,LS,gas,premium unleaded (required),V6,416,rear wheel drive,10-speed shiftable automatic,Sedan
+33,Lexus,273,LX,gas,premium unleaded (recommended),V8,383,four wheel drive,8-speed shiftable automatic,SUV
+33,Lexus,274,NX,gas,premium unleaded (required),I4,235,all wheel drive,6-speed shiftable automatic,SUV
+33,Lexus,275,RC,gas,premium unleaded (required),I4,241,rear wheel drive,8-speed shiftable automatic,Coupe
+33,Lexus,276,RX,gas,regular unleaded,V6,295,all wheel drive,8-speed shiftable automatic,SUV
+33,Lexus,277,UX,gas,premium unleaded (recommended),I4,169,front wheel drive,continuously variable-speed automatic,SUV
+15,Lincoln,66,Aviator,gas,premium unleaded (recommended),V6,400,rear wheel drive,10-speed shiftable automatic,SUV
+15,Lincoln,448,Continental,gas,regular unleaded,V6,305,all wheel drive,6-speed shiftable automatic,Sedan
+15,Lincoln,278,Corsair,gas,premium unleaded (recommended),I4,250,front wheel drive,8-speed shiftable automatic,SUV
+15,Lincoln,449,MKZ,gas,premium unleaded (recommended),I4,245,front wheel drive,6-speed shiftable automatic,Sedan
+15,Lincoln,279,Nautilus,gas,premium unleaded (recommended),I4,250,all wheel drive,8-speed shiftable automatic,SUV
+15,Lincoln,280,Navigator,gas,regular unleaded,V6,450,four wheel drive,10-speed shiftable automatic,SUV
+45,Lotus,406,Evora GT,gas,premium unleaded (recommended),V6,416,rear wheel drive,6-speed manual,Coupe
+35,Maserati,282,Ghibli,gas,premium unleaded (required),V6,345,rear wheel drive,8-speed shiftable automatic,Sedan
+35,Maserati,283,Levante,gas,premium unleaded (required),V6,345,all wheel drive,8-speed shiftable automatic,SUV
+35,Maserati,285,Quattroporte,gas,premium unleaded (required),V8,523,rear wheel drive,8-speed shiftable automatic,Sedan
+16,Mazda,286,3,gas,regular unleaded,I4,186,front wheel drive,6-speed shiftable automatic,Sedan
+16,Mazda,407,6,gas,premium unleaded (recommended),I4,227,front wheel drive,6-speed shiftable automatic,Sedan
+16,Mazda,408,CX-3,gas,regular unleaded,I4,148,all wheel drive,6-speed shiftable automatic,SUV
+16,Mazda,287,CX-30,gas,regular unleaded,I4,186,all wheel drive,6-speed shiftable automatic,SUV
+16,Mazda,288,CX-5,gas,regular unleaded,I4,187,all wheel drive,6-speed shiftable automatic,SUV
+16,Mazda,289,CX-9,gas,premium unleaded (recommended),I4,227,front wheel drive,6-speed shiftable automatic,SUV
+16,Mazda,291,MX-5 Miata,gas,premium unleaded (recommended),I4,181,rear wheel drive,6-speed shiftable automatic,Convertible
+16,Mazda,292,MX-5 Miata RF,gas,premium unleaded (recommended),I4,181,rear wheel drive,6-speed manual,Convertible
+36,McLaren,450,570S,gas,premium unleaded (required),V8,562,rear wheel drive,7-speed automated manual,Coupe
+36,McLaren,451,570S Spider,gas,premium unleaded (required),V8,562,rear wheel drive,7-speed automated manual,Convertible
+36,McLaren,452,600LT Spider,gas,premium unleaded (required),V8,592,rear wheel drive,7-speed automated manual,Convertible
+36,McLaren,293,720S,gas,premium unleaded (required),V8,710,rear wheel drive,7-speed automated manual,Coupe
+36,McLaren,294,720S Spider,gas,premium unleaded (required),V8,710,rear wheel drive,7-speed automated manual,Convertible
+36,McLaren,297,GT,gas,premium unleaded (required),V8,612,rear wheel drive,7-speed automated manual,Coupe
+37,Mercedes-Benz,298,A-Class,gas,premium unleaded (required),I4,188,front wheel drive,7-speed automated manual,Sedan
+37,Mercedes-Benz,299,AMG GT,mild hybrid,premium unleaded (required),I6,429,all wheel drive,9-speed shiftable automatic,Sedan
+37,Mercedes-Benz,300,C-Class,gas,premium unleaded (required),V6,385,all wheel drive,9-speed shiftable automatic,Convertible
+37,Mercedes-Benz,301,CLA-Class,gas,premium unleaded (required),I4,302,all wheel drive,7-speed automated manual,Sedan
+37,Mercedes-Benz,302,CLS-Class,mild hybrid,premium unleaded (required),I6,429,all wheel drive,9-speed shiftable automatic,Sedan
+37,Mercedes-Benz,303,E-Class,mild hybrid,premium unleaded (required),I6,429,all wheel drive,9-speed shiftable automatic,Convertible
+37,Mercedes-Benz,411,G-Class,gas,premium unleaded (required),V8,577,four wheel drive,9-speed shiftable automatic,SUV
+37,Mercedes-Benz,305,GLA-Class,gas,premium unleaded (required),I4,208,front wheel drive,7-speed automated manual,SUV
+37,Mercedes-Benz,306,GLB-Class,gas,premium unleaded (required),I4,221,front wheel drive,8-speed automated manual,SUV
+37,Mercedes-Benz,307,GLC-Class,gas,premium unleaded (required),V6,385,all wheel drive,9-speed shiftable automatic,SUV
+37,Mercedes-Benz,308,GLC-Class Coupe,gas,premium unleaded (required),V6,385,all wheel drive,9-speed shiftable automatic,SUV
+37,Mercedes-Benz,309,GLE-Class,gas,premium unleaded (required),I4,255,rear wheel drive,9-speed shiftable automatic,SUV
+37,Mercedes-Benz,311,GLS-Class,mild hybrid,premium unleaded (required),I6,362,all wheel drive,9-speed shiftable automatic,SUV
+37,Mercedes-Benz,312,Maybach,gas,premium unleaded (required),V8,463,all wheel drive,9-speed shiftable automatic,Sedan
+37,Mercedes-Benz,314,Metris,gas,premium unleaded (recommended),I4,208,rear wheel drive,7-speed shiftable automatic,Minivan
+37,Mercedes-Benz,315,S-Class,gas,premium unleaded (required),V8,603,all wheel drive,9-speed shiftable automatic,Sedan
+37,Mercedes-Benz,316,SL-Class,gas,premium unleaded (required),V6,362,rear wheel drive,9-speed shiftable automatic,Convertible
+37,Mercedes-Benz,453,SLC-Class,gas,premium unleaded (required),V6,385,rear wheel drive,9-speed shiftable automatic,Convertible
+37,Mercedes-Benz,317,Sprinter,gas,regular unleaded,I4,188,rear wheel drive,9-speed shiftable automatic,Van
+17,MINI,68,Clubman,gas,regular unleaded,I4,189,front wheel drive,7-speed automated manual,Hatchback
+17,MINI,69,Convertible,gas,premium unleaded (required),I3,134,front wheel drive,7-speed automated manual,Convertible
+17,MINI,70,Countryman,gas,premium unleaded (required),I3,134,front wheel drive,7-speed automated manual,Wagon
+17,MINI,71,Hardtop 2 Door,gas,premium unleaded (required),I3,134,front wheel drive,7-speed automated manual,Hatchback
+17,MINI,72,Hardtop 4 Door,gas,premium unleaded (required),I3,134,front wheel drive,7-speed automated manual,Hatchback
+18,Mitsubishi,73,Eclipse Cross,gas,regular unleaded,I4,152,all wheel drive,continuously variable-speed automatic,SUV
+18,Mitsubishi,318,Mirage,gas,regular unleaded,I3,78,front wheel drive,5-speed manual,Hatchback
+18,Mitsubishi,319,Mirage G4,gas,regular unleaded,I3,78,front wheel drive,continuously variable-speed automatic,Sedan
+18,Mitsubishi,320,Outlander,gas,regular unleaded,I4,166,all wheel drive,continuously variable-speed automatic,SUV
+18,Mitsubishi,321,Outlander PHEV,plug-in hybrid,regular unleaded,I4,none,all wheel drive,1-speed direct drive,SUV
+18,Mitsubishi,322,Outlander Sport,gas,regular unleaded,I4,148,all wheel drive,continuously variable-speed automatic,SUV
+19,Nissan,454,370Z,gas,premium unleaded (required),V6,332,rear wheel drive,6-speed manual,Coupe
+19,Nissan,323,Altima,gas,regular unleaded,I4,188,front wheel drive,continuously variable-speed automatic,Sedan
+19,Nissan,324,Armada,gas,regular unleaded,V8,390,rear wheel drive,7-speed automatic,SUV
+19,Nissan,325,Frontier,gas,regular unleaded,V6,310,four wheel drive,9-speed automatic,Truck (Crew Cab)
+19,Nissan,412,GT-R,gas,premium unleaded (required),V6,600,all wheel drive,6-speed automated manual,Coupe
+19,Nissan,326,Kicks,gas,regular unleaded,I4,122,front wheel drive,continuously variable-speed automatic,Hatchback
+19,Nissan,74,LEAF,electric,electric,,147,front wheel drive,1-speed direct drive,Hatchback
+19,Nissan,327,Maxima,gas,premium unleaded (recommended),V6,300,front wheel drive,continuously variable-speed automatic,Sedan
+19,Nissan,328,Murano,gas,regular unleaded,V6,260,all wheel drive,continuously variable-speed automatic,SUV
+19,Nissan,413,NV Cargo,gas,regular unleaded,V6,261,rear wheel drive,5-speed automatic,Van
+19,Nissan,414,NV Passenger,gas,regular unleaded,V6,261,rear wheel drive,5-speed automatic,Van
+19,Nissan,415,NV200,gas,regular unleaded,I4,131,front wheel drive,continuously variable-speed automatic,Minivan
+19,Nissan,329,Pathfinder,gas,regular unleaded,V6,284,four wheel drive,continuously variable-speed automatic,SUV
+19,Nissan,330,Rogue,gas,regular unleaded,I4,170,front wheel drive,continuously variable-speed automatic,SUV
+19,Nissan,331,Rogue Sport,gas,regular unleaded,I4,141,front wheel drive,continuously variable-speed automatic,SUV
+19,Nissan,332,Sentra,gas,regular unleaded,I4,149,front wheel drive,continuously variable-speed automatic,Sedan
+19,Nissan,333,Titan,gas,regular unleaded,V8,400,rear wheel drive,9-speed shiftable automatic,Truck (Crew Cab)
+19,Nissan,334,Titan XD,gas,regular unleaded,V8,400,four wheel drive,9-speed shiftable automatic,Truck (Crew Cab)
+19,Nissan,335,Versa,gas,regular unleaded,I4,122,front wheel drive,5-speed manual,Sedan
+20,Polestar,416,1,plug-in hybrid,premium unleaded (required),I4,619,all wheel drive,8-speed shiftable automatic,Coupe
+38,Porsche,336,718 Boxster,gas,premium unleaded (required),flat 4,300,rear wheel drive,6-speed manual,Convertible
+38,Porsche,337,718 Cayman,gas,premium unleaded (required),flat 4,300,rear wheel drive,6-speed manual,Coupe
+38,Porsche,338,911,gas,premium unleaded (required),flat 6,379,rear wheel drive,8-speed automated manual,Coupe
+38,Porsche,339,Cayenne,gas,premium unleaded (required),V6,335,all wheel drive,8-speed shiftable automatic,SUV
+38,Porsche,340,Cayenne Coupe,gas,premium unleaded (required),V6,335,all wheel drive,8-speed shiftable automatic,SUV
+38,Porsche,341,Macan,gas,premium unleaded (required),I4,248,all wheel drive,7-speed automated manual,SUV
+38,Porsche,342,Panamera,gas,premium unleaded (required),V6,330,rear wheel drive,8-speed automated manual,Sedan
+38,Porsche,343,Taycan,electric,electric,none,522,all wheel drive,2-speed automatic,Sedan
+39,Ram,344,1500,mild hybrid,regular unleaded,V6,305,rear wheel drive,8-speed shiftable automatic,Truck (Crew Cab)
+39,Ram,347,1500 Classic,gas,regular unleaded,V6,305,rear wheel drive,8-speed shiftable automatic,Truck (Quad Cab)
+39,Ram,345,2500,gas,regular unleaded,V8,410,rear wheel drive,8-speed shiftable automatic,Truck (Crew Cab)
+39,Ram,346,3500,gas,regular unleaded,V8,410,four wheel drive,8-speed shiftable automatic,Truck (Mega Cab)
+39,Ram,348,Promaster Cargo Van,gas,regular unleaded,V6,280,front wheel drive,6-speed shiftable automatic,Van
+39,Ram,349,Promaster City,gas,regular unleaded,I4,178,front wheel drive,9-speed automatic,Minivan
+39,Ram,350,Promaster Window Van,gas,regular unleaded,V6,280,front wheel drive,6-speed shiftable automatic,Van
+41,Rolls-Royce,352,Cullinan,gas,premium unleaded (required),V12,563,all wheel drive,8-speed shiftable automatic,SUV
+41,Rolls-Royce,455,Dawn,gas,premium unleaded (required),V12,563,rear wheel drive,8-speed shiftable automatic,Convertible
+41,Rolls-Royce,417,Ghost,gas,premium unleaded (required),V12,563,rear wheel drive,8-speed automatic,Sedan
+41,Rolls-Royce,456,Phantom,gas,premium unleaded (required),V12,563,rear wheel drive,8-speed automatic,Sedan
+41,Rolls-Royce,457,Wraith,gas,premium unleaded (required),V12,623,rear wheel drive,8-speed shiftable automatic,Coupe
+21,Subaru,353,Ascent,gas,regular unleaded,flat 4,260,all wheel drive,continuously variable-speed automatic,SUV
+21,Subaru,77,BRZ,gas,premium unleaded (required),flat 4,200,rear wheel drive,6-speed shiftable automatic,Coupe
+21,Subaru,78,Crosstrek,gas,regular unleaded,flat 4,152,all wheel drive,continuously variable-speed automatic,SUV
+21,Subaru,354,Forester,gas,regular unleaded,flat 4,182,all wheel drive,continuously variable-speed automatic,SUV
+21,Subaru,79,Impreza,gas,regular unleaded,flat 4,152,all wheel drive,5-speed manual,Sedan
+21,Subaru,80,Legacy,gas,regular unleaded,flat 4,182,all wheel drive,continuously variable-speed automatic,Sedan
+21,Subaru,81,Outback,gas,regular unleaded,flat 4,182,all wheel drive,continuously variable-speed automatic,SUV
+21,Subaru,355,WRX,gas,premium unleaded (required),flat 4,268,all wheel drive,6-speed manual,Sedan
+42,Tesla,356,Model 3,electric,electric,none,none,all wheel drive,1-speed direct drive,Sedan
+42,Tesla,357,Model S,electric,electric,none,none,all wheel drive,1-speed direct drive,Sedan
+42,Tesla,358,Model X,electric,electric,none,none,all wheel drive,1-speed direct drive,SUV
+42,Tesla,359,Model Y,electric,electric,none,none,rear wheel drive,1-speed direct drive,SUV
+22,Toyota,360,4Runner,gas,regular unleaded,V6,270,rear wheel drive,5-speed shiftable automatic,SUV
+22,Toyota,458,86,gas,premium unleaded (recommended),flat 4,205,rear wheel drive,6-speed manual,Coupe
+22,Toyota,361,Avalon,gas,regular unleaded,V6,301,front wheel drive,8-speed shiftable automatic,Sedan
+22,Toyota,362,Avalon Hybrid,hybrid,regular unleaded,I4,215,front wheel drive,continuously variable-speed automatic,Sedan
+22,Toyota,363,C-HR,gas,regular unleaded,I4,144,front wheel drive,continuously variable-speed automatic,SUV
+22,Toyota,84,Camry,gas,regular unleaded,I4,203,front wheel drive,8-speed shiftable automatic,Sedan
+22,Toyota,85,Camry Hybrid,hybrid,regular unleaded,I4,208,front wheel drive,continuously variable-speed automatic,Sedan
+22,Toyota,364,Corolla,gas,regular unleaded,I4,139,front wheel drive,continuously variable-speed automatic,Sedan
+22,Toyota,366,Corolla Hatchback,gas,regular unleaded,I4,168,front wheel drive,continuously variable-speed automatic,Hatchback
+22,Toyota,367,Corolla Hybrid,hybrid,regular unleaded,I4,121,front wheel drive,continuously variable-speed automatic,Sedan
+22,Toyota,368,GR Supra,gas,premium unleaded (required),I6,335,rear wheel drive,8-speed shiftable automatic,Coupe
+22,Toyota,369,Highlander,gas,regular unleaded,V6,295,all wheel drive,8-speed shiftable automatic,SUV
+22,Toyota,370,Highlander Hybrid,hybrid,regular unleaded,I4,243,all wheel drive,continuously variable-speed automatic,SUV
+22,Toyota,418,Land Cruiser,gas,regular unleaded,V8,381,four wheel drive,8-speed shiftable automatic,SUV
+22,Toyota,371,Mirai,electric (fuel cell),hydrogen,none,151,front wheel drive,1-speed direct drive,Sedan
+22,Toyota,372,Prius,hybrid,regular unleaded,I4,121,front wheel drive,continuously variable-speed automatic,Hatchback
+22,Toyota,373,Prius Prime,plug-in hybrid,regular unleaded,I4,121,front wheel drive,continuously variable-speed automatic,Hatchback
+22,Toyota,374,RAV4,gas,regular unleaded,I4,203,all wheel drive,8-speed shiftable automatic,SUV
+22,Toyota,375,RAV4 Hybrid,hybrid,regular unleaded,I4,219,all wheel drive,continuously variable-speed automatic,SUV
+22,Toyota,377,Sequoia,gas,regular unleaded,V8,381,four wheel drive,6-speed shiftable automatic,SUV
+22,Toyota,378,Sienna,gas,regular unleaded,V6,296,front wheel drive,8-speed shiftable automatic,Minivan
+22,Toyota,379,Tacoma,gas,regular unleaded,V6,278,rear wheel drive,6-speed automatic,Truck (Double Cab)
+22,Toyota,380,Tundra,gas,regular unleaded,V8,381,four wheel drive,6-speed shiftable automatic,Truck (CrewMax)
+22,Toyota,459,Yaris,gas,regular unleaded,I4,106,front wheel drive,6-speed manual,Sedan
+22,Toyota,460,Yaris Hatchback,gas,regular unleaded,I4,106,front wheel drive,6-speed automatic,Hatchback
+43,Volkswagen,382,Arteon,gas,premium unleaded (required),I4,268,all wheel drive,8-speed shiftable automatic,Hatchback
+43,Volkswagen,383,Atlas,gas,regular unleaded,V6,276,all wheel drive,8-speed shiftable automatic,SUV
+43,Volkswagen,384,Atlas Cross Sport,gas,premium unleaded (recommended),I4,235,front wheel drive,8-speed shiftable automatic,SUV
+43,Volkswagen,419,Golf,gas,regular unleaded,I4,147,front wheel drive,8-speed shiftable automatic,Hatchback
+43,Volkswagen,385,Golf GTI,gas,premium unleaded (recommended),I4,228,front wheel drive,6-speed manual,Hatchback
+43,Volkswagen,388,Jetta,gas,regular unleaded,I4,147,front wheel drive,8-speed shiftable automatic,Sedan
+43,Volkswagen,389,Jetta GLI,gas,premium unleaded (recommended),I4,228,front wheel drive,7-speed automated manual,Sedan
+43,Volkswagen,390,Passat,gas,regular unleaded,I4,174,front wheel drive,6-speed shiftable automatic,Sedan
+43,Volkswagen,392,Tiguan,gas,regular unleaded,I4,184,front wheel drive,8-speed shiftable automatic,SUV
+23,Volvo,88,S60,gas,premium unleaded (recommended),I4,250,front wheel drive,8-speed shiftable automatic,Sedan
+23,Volvo,89,S90,gas,premium unleaded (recommended),I4,316,all wheel drive,8-speed shiftable automatic,Sedan
+23,Volvo,90,V60,gas,premium unleaded (recommended),I4,250,front wheel drive,8-speed shiftable automatic,Wagon
+23,Volvo,91,V60 Cross Country,gas,premium unleaded (recommended),I4,250,all wheel drive,8-speed shiftable automatic,Wagon
+23,Volvo,420,V90,gas,premium unleaded (required),I4,250,front wheel drive,8-speed shiftable automatic,Wagon
+23,Volvo,92,V90 Cross Country,gas,premium unleaded (required),I4,316,all wheel drive,8-speed shiftable automatic,Wagon
+23,Volvo,93,XC40,gas,premium unleaded (recommended),I4,187,front wheel drive,8-speed shiftable automatic,SUV
+23,Volvo,95,XC60,gas,premium unleaded (recommended),I4,250,all wheel drive,8-speed shiftable automatic,SUV
+23,Volvo,96,XC90,gas,premium unleaded (recommended),I4,250,front wheel drive,8-speed automatic,SUV
