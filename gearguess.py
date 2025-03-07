@@ -55,7 +55,6 @@ oem_origins = {
 # read in csv file, put distinct models into TinyDB
 # use im-memory DB
 # function to import data from CSV into TinyDB
-# AI - generated
 def import_cars_to_tinydb(csv_filename):
     db = TinyDB(storage=MemoryStorage)
     cars = db.table("cars")
@@ -71,6 +70,7 @@ def import_cars_to_tinydb(csv_filename):
     return cars
 
 
+# CHANGE PROMPTING TO MAKE -> MODEL (SHOW SUGGESTIONS)
 def runGame(car_db):
     # pick a random car from the database
     random_car = random.choice(car_db.all())
@@ -103,6 +103,9 @@ def runGame(car_db):
                 print(f"Invalid make. There are no OEM's with that letter! Try again.")
             continue
 
+        # print model options for make
+
+        # handle model invalidity
         print(f"Your guess: {fg_make} {fg_model}")
         break
 
