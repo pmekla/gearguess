@@ -73,22 +73,16 @@ def import_cars_to_tinydb(csv_filename):
 # CHANGE PROMPTING TO MAKE -> MODEL (SHOW SUGGESTIONS)
 def runGame(car_db):
     # pick a random car from the database
+    model_query = Query()
     random_car = random.choice(car_db.all())
     correct_make = random_car["Make_Name"]
     correct_model = random_car["Model_Name"]
+    guess_num = 5
     print(f"(TESTING ONLY) The correct car is: {correct_make} {correct_model}")
 
     # game loop
     while True:
-        first_guess = input("Enter first guess (Make Model): ")
-        guess_parts = first_guess.split(" ", 1)  # one split
-
-        if len(guess_parts) < 2:
-            print("Invalid guess, did you forget to specify a model?")
-            continue
-
-        # guess tuple
-        fg_make, fg_model = guess_parts
+        fg_make = input("Enter guess (make): ")
 
         # handle make invalidity
         if fg_make not in oem_origins:
@@ -99,14 +93,37 @@ def runGame(car_db):
             ]
             if suggestions:
                 print(f"Invalid make. Did you mean: {', '.join(suggestions)}?")
+                continue
             else:
-                print(f"Invalid make. There are no OEM's with that letter! Try again.")
-            continue
+                print(f"Invalid make. Don't try to play smart here, letters please!")
+            break
+        
+        # else correct make guessed, display options for user. Query for cars by that OEM
 
-        # print model options for make
+        possible_models = car_db.search(model_query.Make_Name == fg_make)
+        models = [d['Model_Name'] for d in possible_models]
+        print(', '.join(models))
+
+        # print model options for model
+        fg_model = input("Enter guess (model): ").strip()
+        # handle make invalidity
+        if fg_model not in models:
+            print(f"Invalid model. Did you mean: {', '.join(models)}?")
+            continue
 
         # handle model invalidity
         print(f"Your guess: {fg_make} {fg_model}")
+
+        # print out tables for correct values
+        # start with entity values
+
+        if fg_model != correct_model:
+            guess_num -= 1
+            print(f"Invalid guess! Try again. You have {guess_num} attempts remaining.")
+            continue
+        elif fg_model == correct_model:
+            print('Congrats! You guessed the correct car.')
+
         break
 
 
